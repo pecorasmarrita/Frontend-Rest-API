@@ -148,9 +148,3 @@ $(document).ready(function() {
       }
     });
 });
-
-
-/// form invisibile che modifica o aggiunge in base alla richiesta al metodo
-// il pulsante abort ricarica la pagina
-// delete è un metodo a parte
-// il pulsante edit e il pulsante elimina contengono il numero id che richiama al metodo, la checkbox ha come ID "checkboxx"
